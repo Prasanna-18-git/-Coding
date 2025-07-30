@@ -78,7 +78,7 @@ r=int(input("Enter r:"))
 s=Squareroot(r)
 print(f"Squareroot:{s.sqr():.2f}")'''
 #Instances Variables
-'''Capgeminie interview question --->Write a Code to modify a mutable list using a class number for accumulating even/odd values into a list return the even list and odd list with last modified element'''
+'''Write a Code to modify a mutable list using a class number for accumulating even/odd values into a list return the even list and odd list with last modified element'''
 '''I/P:Eg:abc(11)
 abc(22)
 abc(33)'''
