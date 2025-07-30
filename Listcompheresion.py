@@ -17,11 +17,6 @@ for row in table:
     print(row)'''
 '''Create a nXn matrix with manual input numbers ny input seperated spaces
 print all the rows in LC only'''
-'''((Wrong input is coming))--->>>nums=[int(x) for x in input("Enter the ",x*x,"nums with spaces").split()]
-matrix=[[nums[i*x+j] for j in range(x+i)] for i in range(x+1)]
-for rows in matrix:
-    print(rows)
-''''''
 n=input("Enter 9 numbers with space").split()
 if len(n)!=9:
     print("Enter exactly 9 numbers:")
