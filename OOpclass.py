@@ -29,7 +29,7 @@ obj=abc(num)'''
         print(f"HELLO,I am {self.name} and I am {self.age} years old")
 s=student('Prasanna',15)
 s.hi()'''
-#own created
+#creating dog actions class
 '''class dog():
     def __init__(self,name,gender):
         self.name=name
