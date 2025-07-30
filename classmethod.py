@@ -1,4 +1,4 @@
-classmethod
+#classmethod
 '''class student:
     def __init__(self,name,marks):
         self.name=name
